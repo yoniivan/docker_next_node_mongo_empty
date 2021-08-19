@@ -1,0 +1,1 @@
+# docker_next_node_mongo_empty
